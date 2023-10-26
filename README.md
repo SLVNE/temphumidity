@@ -9,6 +9,7 @@ The case will be designed and 3D printed in our makerspace at FSC.
 - AHT20 temperature/humidity sensor https://www.adafruit.com/product/4566 $5
 - Adafruit 128x64 OLED FeatherWing https://www.adafruit.com/product/4650 $15
 - Jumper wires https://www.aliexpress.us/item/3256805863898378.html       $5
+- 9V Battery and Connector (general purpose)                              $7
 - 3D printer and filament will not be included in the cost calculation
 
 Total Projected Cost: ~$37
