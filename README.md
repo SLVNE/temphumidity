@@ -1,3 +1,9 @@
+CSC4640 Microcontroller Programming - Final Project Proposal
+
+Decentralized Environmental Monitoring Station
+
+Member Names: Silvian Ene, Jack Rynor
+
 1. We are building a temperature and humidity monitoring station. 
 For this project we will be using an AHT20 sensor, an Arduino Uno board, a 128x64 SH1107 Oled Display, and some wires to connect everything together.
 The case will be designed and 3D printed in our makerspace at FSC.
@@ -13,6 +19,22 @@ The case will be designed and 3D printed in our makerspace at FSC.
 - 3D printer and filament will not be included in the cost calculation
 
 Total Projected Cost: ~$37
+
+4. Block Diagram attached in Repo 
+   
+5. Schematic attached in Repo 
+
+6. Source code attached in Repo
+
+7. 3D Models attached in Repo
+
+8. Pictures and Youtube Video attached here and in Repo
+https://youtu.be/epsDBCQj5rA
+
+10. Basic Testing - Done in Video, Lacking Tools for Precise Testing
+
+11. Conclusions:
+A project such as this need all team members to communicate better and get going quicker so that if a sensor breaks, we can order one sooner.
 
 
 
