@@ -36,6 +36,14 @@ https://youtu.be/epsDBCQj5rA
 11. Conclusions:
 A project such as this need all team members to communicate better and get going quicker so that if a sensor breaks, we can order one sooner.
 
+RESULTS - BUILT A WORKING PROTOTYPE THAT DISPLAYS THE SENSOR DATA ON ANY DEVICE CONNECTED TO THE SAME NETWORK AS THE MODULE.
+THIS IS A GOOD OPTION BETWEEN MY ORIGINAL IDEA TO LEVERAGE A PHYSICAL DISPLAY OR TO USE A CLOUD SERVICE
+
+THE DEVICE ALSO BENEFITS FROM USING A SOLAR POWER BANK WHICH, WITH ITS LOW CURRENT REQUIREMENTS, IS A GREAT COMBINATION FOR LONG-TERM MONITORING.
+
+CONCLUSION: 
+This was a good project to work on as it allowed me to learn how to dynamically create web pages and how to connect devices to an arduino module.
+
 
 
 
